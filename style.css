@@ -1,0 +1,24 @@
+.aqua{
+    color: aqua;
+}
+
+.font{
+    font-style: normal; color:white
+}
+
+.border{
+    border: 2px outset #000000;
+}
+
+.text-ali{
+    text-align: center;
+}
+
+.margin-space{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.table_border{
+    border: 5px outset #000000;
+}
